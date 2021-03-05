@@ -21,3 +21,5 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ## Autores
 * **Kevin González Navarro** - *Desarrollador* - [KAGN-521](https://github.com/KAGN-521)
+* **Erick Julian Medinila Maffioli** - *Desarrollador* - [JulianMaffioli-zz](https://github.com/JulianMaffioli-zz)
+
